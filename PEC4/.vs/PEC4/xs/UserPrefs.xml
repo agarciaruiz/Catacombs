@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6B17BCD3-CCE4-E57B-54F1-83F37A9531ED}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameIssues/KillSound.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameIssues/KillSound.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PEC4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BossScripts" expanded="True" />
+                <Node name="Enemy Scripts" expanded="True" />
+                <Node name="GameIssues" expanded="True">
+                  <Node name="KillSound.cs" selected="True" />
+                </Node>
+                <Node name="Objects" expanded="True" />
+                <Node name="PlayerScripts" expanded="True" />
+                <Node name="Reusable Comp" expanded="True" />
+                <Node name="ScriptableObj" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac2fff64-979d-4dcb-a3fe-af387caac708" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
